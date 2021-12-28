@@ -9,7 +9,7 @@ import java.util.Random;
 import javax.swing.JButton;
 
 /**
-* This class controlls the overall funcationalities and user interactions.
+* This class controls the overall functionalities and user interactions.
 *
 * @author Badri Dahal
  */
